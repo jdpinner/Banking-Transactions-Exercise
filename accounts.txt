@@ -1,0 +1,4 @@
+AccntId	FName	LName
+123		Huey	Duck
+456		Dewey	Duck
+789		Louie	Duck

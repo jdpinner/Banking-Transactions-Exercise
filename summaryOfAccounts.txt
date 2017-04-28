@@ -1,0 +1,33 @@
+Account Number         Client Name             Credits              Debits             Balance
+           123          Duck, Huey              100.00               60.00               40.00
+
+Transaction ID                Type              Amount           Processed
+           100                   C              100.00                   Y
+           103                   D               20.00                   Y
+           106                   D               20.00                   Y
+           109                   D               20.00                   Y
+
+**********************************************************************************************
+
+Account Number         Client Name             Credits              Debits             Balance
+           456         Duck, Dewey              110.00              105.00                5.00
+
+Transaction ID                Type              Amount           Processed
+           101                   C              110.00                   Y
+           104                   D               55.00                   Y
+           107                   D               65.00                   N
+           110                   D               50.00                   Y
+
+**********************************************************************************************
+
+Account Number         Client Name             Credits              Debits             Balance
+           789         Duck, Louie              115.00               75.00               40.00
+
+Transaction ID                Type              Amount           Processed
+           102                   C              115.00                   Y
+           105                   D               25.00                   Y
+           108                   D               25.00                   Y
+           111                   D               25.00                   Y
+
+**********************************************************************************************
+
